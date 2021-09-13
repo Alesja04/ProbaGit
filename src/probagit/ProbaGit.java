@@ -16,8 +16,7 @@ public class ProbaGit {
      */
     public static void main(String[] args) {
         System.out.println("Начало проекта");
-        System.out.println("продолжение");
-        System.out.println("третья версия программы");
+        System.out.println("Вторая часть");
     }
     
 }
